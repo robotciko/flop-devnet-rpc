@@ -1,0 +1,11 @@
+# never commit key material or run artifacts
+node_key.dat
+*.pem
+*.key
+rpc-pool.env
+seed/
+unpack/
+*.tar.zst
+*.tar.zst.*
+latest.json
+SHA256SUMS
